@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{1E98A8EF-1B69-44AA-A42C-D62E5715D2D7}</ProjectGuid>
-    <RootNamespace>My2BModLauncher</RootNamespace>
+    <RootNamespace>2BModLauncher</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
